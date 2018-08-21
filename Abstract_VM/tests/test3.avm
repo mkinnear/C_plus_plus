@@ -1,0 +1,8 @@
+;Failed to compile
+;3 Errors found
+
+push
+push floa( 76 )
+mod
+dump
+exit

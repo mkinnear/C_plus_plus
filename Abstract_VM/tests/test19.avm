@@ -1,0 +1,6 @@
+push float( 7 )
+push float( 76 )
+mod
+print
+dump
+exit

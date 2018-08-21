@@ -1,0 +1,6 @@
+;Failed to compile
+;1 Errors found
+
+push int16(999999999999999999999999999)
+
+exit

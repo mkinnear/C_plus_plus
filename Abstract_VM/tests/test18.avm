@@ -1,0 +1,12 @@
+
+push int8(0)
+push int8(0)
+pop
+assert int8(0)
+print
+dump
+add
+mul
+sub
+div
+mod

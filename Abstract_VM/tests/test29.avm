@@ -1,0 +1,6 @@
+;Complied successfully
+;A minimun of two stack values is needed for this operation
+
+push int32 (42)
+add
+exit

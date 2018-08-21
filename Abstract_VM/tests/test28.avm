@@ -1,0 +1,6 @@
+;Complied successfully
+;Asserted value is not equal to stack
+
+push int32 (42)
+assert int32 (0)
+exit
